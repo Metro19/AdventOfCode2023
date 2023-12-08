@@ -4,14 +4,14 @@ This is just fun code I do quickly so there are no guarantees it is structured w
 
 | Day | Star 1 | Star 2 |
 |-----|--------|--------|
-| 1   |    X   |        |
-| 2   |    X   |    X   |
+| 1   | X      |        |
+| 2   | X      | X      |
 | 3   |        |        |
-| 4   |    X   |    X   |
+| 4   | X      | X      |
 | 5   |        |        |
-| 6   |    X   |    X   |
-| 7   |    X   |    X   |
-| 8   |        |        |
+| 6   | X      | X      |
+| 7   | X      | X      |
+| 8   | X      | X      |
 | 9   |        |        |
 | 10  |        |        |
 | 11  |        |        |
