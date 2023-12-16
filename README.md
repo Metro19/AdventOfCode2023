@@ -18,7 +18,7 @@ This is just fun code I do quickly so there are no guarantees it is structured w
 | 12  |        |        |
 | 13  |        |        |
 | 14  |        |        |
-| 15  |        |        |
+| 15  | X      | X      |
 | 16  |        |        |
 | 17  |        |        |
 | 18  |        |        |
