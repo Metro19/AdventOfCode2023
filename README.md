@@ -12,7 +12,7 @@ This is just fun code I do quickly so there are no guarantees it is structured w
 | 6   | X      | X      |
 | 7   | X      | X      |
 | 8   | X      | X      |
-| 9   |        |        |
+| 9   | X      | X      |
 | 10  |        |        |
 | 11  |        |        |
 | 12  |        |        |
